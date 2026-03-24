@@ -1,0 +1,34 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Weights (Ignored due to large file sizes)
+*.pt
+*.onnx
+*.weights
+*.task
+yolov8n.pt
+face_landmarker.task
+hand_landmarker.task
+
+# Database
+face_db.sqlite
+*.db
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

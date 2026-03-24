@@ -1,0 +1,8 @@
+opencv-python
+deepface
+mediapipe
+streamlit
+pandas
+numpy
+tf-keras
+ultralytics
