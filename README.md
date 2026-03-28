@@ -21,8 +21,8 @@ FaceGuard AI Pro is a real-time, premium computer vision application built with 
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR-REPO-LINK>
-   cd "Real Time Face Recognition And Detection"
+   git clone https://github.com/asima7569151473-alt/face-recognition.git
+   cd face-recognition
    ```
 
 2. **Install system dependencies:**
